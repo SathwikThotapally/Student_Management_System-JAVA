@@ -1,7 +1,3 @@
-Here’s a professional and well-structured `README.md` file for your **Student Management System** project using **Java**, **JDBC**, and **SQL**. You can copy this into your GitHub repo and modify any project-specific details as needed.
-
----
-
 ````markdown
 # 🎓 Student Management System
 
