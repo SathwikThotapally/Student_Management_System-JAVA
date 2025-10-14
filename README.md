@@ -62,7 +62,7 @@ cd student-management-system
 
 ```java
 // Example DB connection setup
-String url = "jdbc:mysql://localhost:3306/studentdb";
+String url = "jdbc:mysql://localhost:3306/students";
 String user = "root";
 String password = "yourpassword";
 ```
