@@ -1,4 +1,3 @@
-````markdown
 # 🎓 Student Management System
 
 An efficient **Student Management System** built using **Java**, **JDBC**, and **MySQL/SQL**. This project allows users to perform all basic CRUD (Create, Read, Update, Delete) operations on student data via a console-based interface.
@@ -108,4 +107,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ### ✅ Next Steps
 
 If you'd like help generating the `LICENSE`, Java files (`Main.java`, `DBConnection.java`, etc.), or anything else related to this project, just let me know!
-```
+
