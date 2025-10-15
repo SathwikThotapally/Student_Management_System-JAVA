@@ -11,6 +11,24 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        int attempts = 3;
+        while(attempts > 0){
+            System.out.println("Enter the password");
+            String inputPassword = sc.next();
+
+            if(inputPassword.equals(password)){
+                System.out.println("Access Granted. \n");
+                break;
+            }else{
+                attempts--;
+                System.out.println("Wrong password "+attempts+" more attempts left");
+                if(attempts == 0){
+                    System.out.println("Too many failed attempts. Exiting Program");
+                    System.exit(0);
+                }
+            }
+        }
+
         while(true){
             System.out.println("\n===== Welcome to Student Management System =====");
             System.out.println("Please Enter your choice from below");
