@@ -6,6 +6,7 @@ An efficient **Student Management System** built using **Java**, **JDBC**, and *
 
 ## 🚀 Features
 
+- User Authentication to connect with the database
 - Add new student records
 - View all student details
 - Search for a student by ID, Email, Phone Number
