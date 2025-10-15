@@ -11,7 +11,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        int attempts = 3;
+        int attempts = 4;
         while(attempts > 0){
             System.out.println("Enter the password");
             String inputPassword = sc.next();
